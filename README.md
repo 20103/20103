@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @20103
-- 👀 I’m interested in reverse engineering and programming
+- 👀 I’m interested in reverse engineering, programming and cybersecurity
 - 🌱 I’m currently learning basic computer science
 - 💞️ I’m looking to collaborate on n/a
 - 📫 Don't
